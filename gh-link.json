@@ -1,0 +1,28 @@
+{
+  "links": [
+    {
+      "title": "GitHub",
+      "description": "MonkeyType Hub Github",
+      "url": "https://github.com/monkeytype-hub",
+      "icon": "https://cdn-icons-png.flaticon.com/512/25/25231.png"
+    },
+    {
+      "title": "MonkeyType Readme",
+      "description": "Monkeytype Readme transforms MonkeyType typing data into SVGs for your GitHub Readme and Share Your MonkeyType Story With The World",
+      "url": "https://monkeytype-readme.com/",
+      "icon": "https://monkeytype-readme.com/image/stupidMonkeyIcon.webp"
+    },
+    {
+      "title": "MonkeyType Readme Github Action",
+      "description": "GitHub Action to update your MonkeyType README",
+      "url": "https://github.com/marketplace/actions/monkeytype-readme",
+      "icon": "https://monkeytype-readme.com/image/stupidMonkeyIcon.webp"
+    },
+    {
+      "title": "MonkeyType Icon",
+      "description": "SVG favicon and logo icon for MonkeyType",
+      "url": "https://github.com/monkeytype-hub/monkeytype-icon",
+      "icon": "https://raw.githubusercontent.com/monkeytype-hub/monkeytype-icon/master/monkeytype-icon/svg/serika_dark.svg"
+    }
+  ]
+}
